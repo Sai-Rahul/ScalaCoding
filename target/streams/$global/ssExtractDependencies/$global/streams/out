@@ -1,0 +1,271 @@
+sbt.ResolveException: unresolved dependency: org.apache.hadoop#hadoop-yarn-client;2.6.5: not found
+unresolved dependency: org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5: not found
+unresolved dependency: org.apache.hadoop#hadoop-yarn-server-common;2.6.5: not found
+unresolved dependency: org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5: not found
+unresolved dependency: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5: not found
+unresolved dependency: org.apache.spark#spark-launcher_2.11;2.4.4: not found
+unresolved dependency: org.apache.spark#spark-kvstore_2.11;2.4.4: not found
+unresolved dependency: org.apache.spark#spark-network-common_2.11;2.4.4: not found
+unresolved dependency: org.apache.spark#spark-network-shuffle_2.11;2.4.4: not found
+unresolved dependency: org.apache.spark#spark-unsafe_2.11;2.4.4: not found
+unresolved dependency: javax.activation#activation;1.1.1: not found
+unresolved dependency: javax.servlet#javax.servlet-api;3.1.0: not found
+unresolved dependency: org.apache.commons#commons-lang3;3.5: not found
+unresolved dependency: org.apache.commons#commons-math3;3.4.1: not found
+unresolved dependency: org.slf4j#slf4j-api;1.7.16: not found
+unresolved dependency: org.slf4j#jul-to-slf4j;1.7.16: not found
+unresolved dependency: org.slf4j#jcl-over-slf4j;1.7.16: not found
+unresolved dependency: org.slf4j#slf4j-log4j12;1.7.16: not found
+unresolved dependency: com.ning#compress-lzf;1.0.3: not found
+unresolved dependency: org.xerial.snappy#snappy-java;1.1.7.3: not found
+unresolved dependency: org.lz4#lz4-java;1.4.0: not found
+unresolved dependency: com.github.luben#zstd-jni;1.3.2-2: not found
+unresolved dependency: org.roaringbitmap#RoaringBitmap;0.7.45: not found
+unresolved dependency: org.json4s#json4s-jackson_2.11;3.5.3: not found
+unresolved dependency: org.glassfish.jersey.core#jersey-client;2.22.2: not found
+unresolved dependency: org.glassfish.jersey.core#jersey-common;2.22.2: not found
+unresolved dependency: org.glassfish.jersey.core#jersey-server;2.22.2: not found
+unresolved dependency: org.glassfish.jersey.containers#jersey-container-servlet;2.22.2: not found
+unresolved dependency: org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2: not found
+unresolved dependency: io.netty#netty-all;4.1.17.Final: not found
+unresolved dependency: io.netty#netty;3.9.9.Final: not found
+unresolved dependency: com.clearspring.analytics#stream;2.7.0: not found
+unresolved dependency: io.dropwizard.metrics#metrics-core;3.1.5: not found
+unresolved dependency: io.dropwizard.metrics#metrics-jvm;3.1.5: not found
+unresolved dependency: io.dropwizard.metrics#metrics-json;3.1.5: not found
+unresolved dependency: io.dropwizard.metrics#metrics-graphite;3.1.5: not found
+unresolved dependency: com.fasterxml.jackson.core#jackson-databind;2.6.7.1: not found
+unresolved dependency: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1: not found
+unresolved dependency: org.apache.ivy#ivy;2.4.0: not found
+unresolved dependency: oro#oro;2.0.8: not found
+unresolved dependency: net.razorvine#pyrolite;4.13: not found
+unresolved dependency: net.sf.py4j#py4j;0.10.7: not found
+unresolved dependency: org.apache.spark#spark-tags_2.11;2.4.4: not found
+unresolved dependency: org.apache.commons#commons-crypto;1.0.0: not found
+unresolved dependency: org.spark-project.spark#unused;1.0.0: not found
+unresolved dependency: com.thoughtworks.paranamer#paranamer;2.8: not found
+unresolved dependency: org.apache.spark#spark-sql_2.11;2.4.4: not found
+download failed: org.apache.spark#spark-core_2.11;2.4.4!spark-core_2.11.jar
+download failed: org.apache.avro#avro;1.8.2!avro.jar
+download failed: org.codehaus.jackson#jackson-core-asl;1.9.13!jackson-core-asl.jar
+download failed: org.codehaus.jackson#jackson-mapper-asl;1.9.13!jackson-mapper-asl.jar
+download failed: org.apache.commons#commons-compress;1.8.1!commons-compress.jar
+download failed: org.tukaani#xz;1.5!xz.jar
+download failed: org.apache.avro#avro-mapred;1.8.2!avro-mapred.jar
+download failed: org.apache.avro#avro-ipc;1.8.2!avro-ipc.jar
+download failed: commons-codec#commons-codec;1.9!commons-codec.jar
+download failed: com.twitter#chill_2.11;0.9.3!chill_2.11.jar
+download failed: com.twitter#chill-java;0.9.3!chill-java.jar
+download failed: com.esotericsoftware#kryo-shaded;4.0.2!kryo-shaded.jar(bundle)
+download failed: com.esotericsoftware#minlog;1.3.0!minlog.jar(bundle)
+download failed: org.objenesis#objenesis;2.5.1!objenesis.jar
+download failed: org.apache.xbean#xbean-asm6-shaded;4.8!xbean-asm6-shaded.jar(bundle)
+download failed: org.apache.hadoop#hadoop-client;2.6.5!hadoop-client.jar
+download failed: org.apache.hadoop#hadoop-common;2.6.5!hadoop-common.jar
+download failed: org.apache.hadoop#hadoop-annotations;2.6.5!hadoop-annotations.jar
+download failed: com.google.guava#guava;11.0.2!guava.jar
+download failed: com.google.code.findbugs#jsr305;1.3.9!jsr305.jar
+download failed: commons-cli#commons-cli;1.2!commons-cli.jar
+download failed: xmlenc#xmlenc;0.52!xmlenc.jar
+download failed: commons-httpclient#commons-httpclient;3.1!commons-httpclient.jar
+download failed: commons-io#commons-io;2.4!commons-io.jar
+download failed: commons-net#commons-net;3.1!commons-net.jar
+download failed: commons-collections#commons-collections;3.2.2!commons-collections.jar
+download failed: log4j#log4j;1.2.17!log4j.jar(bundle)
+download failed: commons-lang#commons-lang;2.6!commons-lang.jar
+download failed: commons-configuration#commons-configuration;1.6!commons-configuration.jar
+download failed: commons-digester#commons-digester;1.8!commons-digester.jar
+download failed: commons-beanutils#commons-beanutils;1.7.0!commons-beanutils.jar
+download failed: com.google.protobuf#protobuf-java;2.5.0!protobuf-java.jar(bundle)
+download failed: com.google.code.gson#gson;2.2.4!gson.jar
+download failed: org.apache.hadoop#hadoop-auth;2.6.5!hadoop-auth.jar
+download failed: org.apache.httpcomponents#httpclient;4.2.5!httpclient.jar
+download failed: org.apache.httpcomponents#httpcore;4.2.4!httpcore.jar
+download failed: org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15!apacheds-kerberos-codec.jar(bundle)
+download failed: org.apache.directory.server#apacheds-i18n;2.0.0-M15!apacheds-i18n.jar(bundle)
+download failed: org.apache.directory.api#api-asn1-api;1.0.0-M20!api-asn1-api.jar(bundle)
+download failed: org.apache.directory.api#api-util;1.0.0-M20!api-util.jar(bundle)
+download failed: org.apache.curator#curator-framework;2.6.0!curator-framework.jar(bundle)
+download failed: org.apache.curator#curator-client;2.6.0!curator-client.jar(bundle)
+download failed: org.apache.zookeeper#zookeeper;3.4.6!zookeeper.jar
+download failed: jline#jline;0.9.94!jline.jar
+download failed: junit#junit;3.8.1!junit.jar
+download failed: org.apache.curator#curator-recipes;2.6.0!curator-recipes.jar(bundle)
+download failed: org.htrace#htrace-core;3.0.4!htrace-core.jar
+download failed: org.apache.hadoop#hadoop-hdfs;2.6.5!hadoop-hdfs.jar
+download failed: org.mortbay.jetty#jetty-util;6.1.26!jetty-util.jar
+download failed: xerces#xercesImpl;2.9.1!xercesImpl.jar
+download failed: xml-apis#xml-apis;1.3.04!xml-apis.jar
+download failed: org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5!hadoop-mapreduce-client-app.jar
+download failed: org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5!hadoop-mapreduce-client-common.jar
+download failed: org.apache.hadoop#hadoop-yarn-common;2.6.5!hadoop-yarn-common.jar
+download failed: org.apache.hadoop#hadoop-yarn-api;2.6.5!hadoop-yarn-api.jar
+download failed: javax.xml.bind#jaxb-api;2.2.2!jaxb-api.jar
+download failed: javax.xml.stream#stax-api;1.0-2!stax-api.jar
+download failed: org.codehaus.jackson#jackson-jaxrs;1.9.13!jackson-jaxrs.jar
+download failed: org.codehaus.jackson#jackson-xc;1.9.13!jackson-xc.jar
+download failed: com.google.inject#guice;3.0!guice.jar
+download failed: javax.inject#javax.inject;1!javax.inject.jar
+download failed: aopalliance#aopalliance;1.0!aopalliance.jar
+download failed: org.sonatype.sisu.inject#cglib;2.2.1-v20090111!cglib.jar
+	at sbt.IvyActions$.sbt$IvyActions$$resolve(IvyActions.scala:320)
+	at sbt.IvyActions$$anonfun$updateEither$1.apply(IvyActions.scala:191)
+	at sbt.IvyActions$$anonfun$updateEither$1.apply(IvyActions.scala:168)
+	at sbt.IvySbt$Module$$anonfun$withModule$1.apply(Ivy.scala:156)
+	at sbt.IvySbt$Module$$anonfun$withModule$1.apply(Ivy.scala:156)
+	at sbt.IvySbt$$anonfun$withIvy$1.apply(Ivy.scala:133)
+	at sbt.IvySbt.sbt$IvySbt$$action$1(Ivy.scala:57)
+	at sbt.IvySbt$$anon$4.call(Ivy.scala:65)
+	at xsbt.boot.Locks$GlobalLock.withChannel$1(Locks.scala:113)
+	at xsbt.boot.Locks$GlobalLock.withChannelRetries$1(Locks.scala:91)
+	at xsbt.boot.Locks$GlobalLock.$anonfun$withFileLock$1(Locks.scala:119)
+	at xsbt.boot.Using$.withResource(Using.scala:12)
+	at xsbt.boot.Using$.apply(Using.scala:9)
+	at xsbt.boot.Locks$GlobalLock.withFileLock(Locks.scala:119)
+	at xsbt.boot.Locks$GlobalLock.ignoringDeadlockAvoided(Locks.scala:71)
+	at xsbt.boot.Locks$GlobalLock.withLock(Locks.scala:59)
+	at xsbt.boot.Locks$.apply0(Locks.scala:47)
+	at xsbt.boot.Locks$.apply(Locks.scala:36)
+	at sbt.IvySbt.withDefaultLogger(Ivy.scala:65)
+	at sbt.IvySbt.withIvy(Ivy.scala:128)
+	at sbt.IvySbt.withIvy(Ivy.scala:125)
+	at sbt.IvySbt$Module.withModule(Ivy.scala:156)
+	at sbt.IvyActions$.updateEither(IvyActions.scala:168)
+	at sbt.Classpaths$$anonfun$sbt$Classpaths$$work$1$1.apply(Defaults.scala:1555)
+	at sbt.Classpaths$$anonfun$sbt$Classpaths$$work$1$1.apply(Defaults.scala:1551)
+	at sbt.Classpaths$$anonfun$doWork$1$1$$anonfun$122.apply(Defaults.scala:1586)
+	at sbt.Classpaths$$anonfun$doWork$1$1$$anonfun$122.apply(Defaults.scala:1584)
+	at sbt.Tracked$$anonfun$lastOutput$1.apply(Tracked.scala:37)
+	at sbt.Classpaths$$anonfun$doWork$1$1.apply(Defaults.scala:1589)
+	at sbt.Classpaths$$anonfun$doWork$1$1.apply(Defaults.scala:1583)
+	at sbt.Tracked$$anonfun$inputChanged$1.apply(Tracked.scala:60)
+	at sbt.Classpaths$.cachedUpdate(Defaults.scala:1606)
+	at sbt.Classpaths$$anonfun$updateTask$1.apply(Defaults.scala:1533)
+	at sbt.Classpaths$$anonfun$updateTask$1.apply(Defaults.scala:1485)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[error] (*:ssExtractDependencies) sbt.ResolveException: unresolved dependency: org.apache.hadoop#hadoop-yarn-client;2.6.5: not found
+[error] unresolved dependency: org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5: not found
+[error] unresolved dependency: org.apache.hadoop#hadoop-yarn-server-common;2.6.5: not found
+[error] unresolved dependency: org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5: not found
+[error] unresolved dependency: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5: not found
+[error] unresolved dependency: org.apache.spark#spark-launcher_2.11;2.4.4: not found
+[error] unresolved dependency: org.apache.spark#spark-kvstore_2.11;2.4.4: not found
+[error] unresolved dependency: org.apache.spark#spark-network-common_2.11;2.4.4: not found
+[error] unresolved dependency: org.apache.spark#spark-network-shuffle_2.11;2.4.4: not found
+[error] unresolved dependency: org.apache.spark#spark-unsafe_2.11;2.4.4: not found
+[error] unresolved dependency: javax.activation#activation;1.1.1: not found
+[error] unresolved dependency: javax.servlet#javax.servlet-api;3.1.0: not found
+[error] unresolved dependency: org.apache.commons#commons-lang3;3.5: not found
+[error] unresolved dependency: org.apache.commons#commons-math3;3.4.1: not found
+[error] unresolved dependency: org.slf4j#slf4j-api;1.7.16: not found
+[error] unresolved dependency: org.slf4j#jul-to-slf4j;1.7.16: not found
+[error] unresolved dependency: org.slf4j#jcl-over-slf4j;1.7.16: not found
+[error] unresolved dependency: org.slf4j#slf4j-log4j12;1.7.16: not found
+[error] unresolved dependency: com.ning#compress-lzf;1.0.3: not found
+[error] unresolved dependency: org.xerial.snappy#snappy-java;1.1.7.3: not found
+[error] unresolved dependency: org.lz4#lz4-java;1.4.0: not found
+[error] unresolved dependency: com.github.luben#zstd-jni;1.3.2-2: not found
+[error] unresolved dependency: org.roaringbitmap#RoaringBitmap;0.7.45: not found
+[error] unresolved dependency: org.json4s#json4s-jackson_2.11;3.5.3: not found
+[error] unresolved dependency: org.glassfish.jersey.core#jersey-client;2.22.2: not found
+[error] unresolved dependency: org.glassfish.jersey.core#jersey-common;2.22.2: not found
+[error] unresolved dependency: org.glassfish.jersey.core#jersey-server;2.22.2: not found
+[error] unresolved dependency: org.glassfish.jersey.containers#jersey-container-servlet;2.22.2: not found
+[error] unresolved dependency: org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2: not found
+[error] unresolved dependency: io.netty#netty-all;4.1.17.Final: not found
+[error] unresolved dependency: io.netty#netty;3.9.9.Final: not found
+[error] unresolved dependency: com.clearspring.analytics#stream;2.7.0: not found
+[error] unresolved dependency: io.dropwizard.metrics#metrics-core;3.1.5: not found
+[error] unresolved dependency: io.dropwizard.metrics#metrics-jvm;3.1.5: not found
+[error] unresolved dependency: io.dropwizard.metrics#metrics-json;3.1.5: not found
+[error] unresolved dependency: io.dropwizard.metrics#metrics-graphite;3.1.5: not found
+[error] unresolved dependency: com.fasterxml.jackson.core#jackson-databind;2.6.7.1: not found
+[error] unresolved dependency: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1: not found
+[error] unresolved dependency: org.apache.ivy#ivy;2.4.0: not found
+[error] unresolved dependency: oro#oro;2.0.8: not found
+[error] unresolved dependency: net.razorvine#pyrolite;4.13: not found
+[error] unresolved dependency: net.sf.py4j#py4j;0.10.7: not found
+[error] unresolved dependency: org.apache.spark#spark-tags_2.11;2.4.4: not found
+[error] unresolved dependency: org.apache.commons#commons-crypto;1.0.0: not found
+[error] unresolved dependency: org.spark-project.spark#unused;1.0.0: not found
+[error] unresolved dependency: com.thoughtworks.paranamer#paranamer;2.8: not found
+[error] unresolved dependency: org.apache.spark#spark-sql_2.11;2.4.4: not found
+[error] download failed: org.apache.spark#spark-core_2.11;2.4.4!spark-core_2.11.jar
+[error] download failed: org.apache.avro#avro;1.8.2!avro.jar
+[error] download failed: org.codehaus.jackson#jackson-core-asl;1.9.13!jackson-core-asl.jar
+[error] download failed: org.codehaus.jackson#jackson-mapper-asl;1.9.13!jackson-mapper-asl.jar
+[error] download failed: org.apache.commons#commons-compress;1.8.1!commons-compress.jar
+[error] download failed: org.tukaani#xz;1.5!xz.jar
+[error] download failed: org.apache.avro#avro-mapred;1.8.2!avro-mapred.jar
+[error] download failed: org.apache.avro#avro-ipc;1.8.2!avro-ipc.jar
+[error] download failed: commons-codec#commons-codec;1.9!commons-codec.jar
+[error] download failed: com.twitter#chill_2.11;0.9.3!chill_2.11.jar
+[error] download failed: com.twitter#chill-java;0.9.3!chill-java.jar
+[error] download failed: com.esotericsoftware#kryo-shaded;4.0.2!kryo-shaded.jar(bundle)
+[error] download failed: com.esotericsoftware#minlog;1.3.0!minlog.jar(bundle)
+[error] download failed: org.objenesis#objenesis;2.5.1!objenesis.jar
+[error] download failed: org.apache.xbean#xbean-asm6-shaded;4.8!xbean-asm6-shaded.jar(bundle)
+[error] download failed: org.apache.hadoop#hadoop-client;2.6.5!hadoop-client.jar
+[error] download failed: org.apache.hadoop#hadoop-common;2.6.5!hadoop-common.jar
+[error] download failed: org.apache.hadoop#hadoop-annotations;2.6.5!hadoop-annotations.jar
+[error] download failed: com.google.guava#guava;11.0.2!guava.jar
+[error] download failed: com.google.code.findbugs#jsr305;1.3.9!jsr305.jar
+[error] download failed: commons-cli#commons-cli;1.2!commons-cli.jar
+[error] download failed: xmlenc#xmlenc;0.52!xmlenc.jar
+[error] download failed: commons-httpclient#commons-httpclient;3.1!commons-httpclient.jar
+[error] download failed: commons-io#commons-io;2.4!commons-io.jar
+[error] download failed: commons-net#commons-net;3.1!commons-net.jar
+[error] download failed: commons-collections#commons-collections;3.2.2!commons-collections.jar
+[error] download failed: log4j#log4j;1.2.17!log4j.jar(bundle)
+[error] download failed: commons-lang#commons-lang;2.6!commons-lang.jar
+[error] download failed: commons-configuration#commons-configuration;1.6!commons-configuration.jar
+[error] download failed: commons-digester#commons-digester;1.8!commons-digester.jar
+[error] download failed: commons-beanutils#commons-beanutils;1.7.0!commons-beanutils.jar
+[error] download failed: com.google.protobuf#protobuf-java;2.5.0!protobuf-java.jar(bundle)
+[error] download failed: com.google.code.gson#gson;2.2.4!gson.jar
+[error] download failed: org.apache.hadoop#hadoop-auth;2.6.5!hadoop-auth.jar
+[error] download failed: org.apache.httpcomponents#httpclient;4.2.5!httpclient.jar
+[error] download failed: org.apache.httpcomponents#httpcore;4.2.4!httpcore.jar
+[error] download failed: org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15!apacheds-kerberos-codec.jar(bundle)
+[error] download failed: org.apache.directory.server#apacheds-i18n;2.0.0-M15!apacheds-i18n.jar(bundle)
+[error] download failed: org.apache.directory.api#api-asn1-api;1.0.0-M20!api-asn1-api.jar(bundle)
+[error] download failed: org.apache.directory.api#api-util;1.0.0-M20!api-util.jar(bundle)
+[error] download failed: org.apache.curator#curator-framework;2.6.0!curator-framework.jar(bundle)
+[error] download failed: org.apache.curator#curator-client;2.6.0!curator-client.jar(bundle)
+[error] download failed: org.apache.zookeeper#zookeeper;3.4.6!zookeeper.jar
+[error] download failed: jline#jline;0.9.94!jline.jar
+[error] download failed: junit#junit;3.8.1!junit.jar
+[error] download failed: org.apache.curator#curator-recipes;2.6.0!curator-recipes.jar(bundle)
+[error] download failed: org.htrace#htrace-core;3.0.4!htrace-core.jar
+[error] download failed: org.apache.hadoop#hadoop-hdfs;2.6.5!hadoop-hdfs.jar
+[error] download failed: org.mortbay.jetty#jetty-util;6.1.26!jetty-util.jar
+[error] download failed: xerces#xercesImpl;2.9.1!xercesImpl.jar
+[error] download failed: xml-apis#xml-apis;1.3.04!xml-apis.jar
+[error] download failed: org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5!hadoop-mapreduce-client-app.jar
+[error] download failed: org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5!hadoop-mapreduce-client-common.jar
+[error] download failed: org.apache.hadoop#hadoop-yarn-common;2.6.5!hadoop-yarn-common.jar
+[error] download failed: org.apache.hadoop#hadoop-yarn-api;2.6.5!hadoop-yarn-api.jar
+[error] download failed: javax.xml.bind#jaxb-api;2.2.2!jaxb-api.jar
+[error] download failed: javax.xml.stream#stax-api;1.0-2!stax-api.jar
+[error] download failed: org.codehaus.jackson#jackson-jaxrs;1.9.13!jackson-jaxrs.jar
+[error] download failed: org.codehaus.jackson#jackson-xc;1.9.13!jackson-xc.jar
+[error] download failed: com.google.inject#guice;3.0!guice.jar
+[error] download failed: javax.inject#javax.inject;1!javax.inject.jar
+[error] download failed: aopalliance#aopalliance;1.0!aopalliance.jar
+[error] download failed: org.sonatype.sisu.inject#cglib;2.2.1-v20090111!cglib.jar
